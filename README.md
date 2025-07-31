@@ -1,5 +1,4 @@
 # ChatBot-Gemini
-# ChatBot Widget
 
 A lightweight, responsive chatbot interface powered by the **Gemini API**. This widget is easy to integrate into any webpage and offers a smooth conversational UI with a modern floating chat icon.
 
